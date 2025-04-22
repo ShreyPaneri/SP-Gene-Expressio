@@ -1,0 +1,9 @@
+Gene,SampleType,Expression
+BRCA1,Tumor,8.1
+BRCA1,Normal,3.5
+BRCA1,Tumor,9.2
+BRCA1,Normal,3.8
+TP53,Tumor,7.4
+TP53,Normal,2.9
+TP53,Tumor,8
+TP53,Normal,3.1
